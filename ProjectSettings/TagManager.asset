@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PocionAumento
+  - PocionDisminuye
+  - Jugador
+  - Niebla
+  - Disparo
+  - Nivel
+  - Gema
+  - Spikes
+  - SpikeCachitos
+  - PlantasVenenosa
+  - Vida
+  - Preucs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Suelo
+  - Jugador
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1374876779
+    locked: 0
+  - name: NivelFondo
+    uniqueID: 1645443127
+    locked: 0
+  - name: Nivel
+    uniqueID: 1290610403
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Jugador
+    uniqueID: 3058168207
+    locked: 0
+  - name: ObjetosProfundidad
+    uniqueID: 2238009571
+    locked: 0
+  - name: Niebla
+    uniqueID: 1923838759
+    locked: 0
